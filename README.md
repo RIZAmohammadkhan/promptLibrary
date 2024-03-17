@@ -6,7 +6,7 @@ Welcome to the Prompt Library, a curated collection of prompts designed for gene
 
 The repository is organized into various directories, each dedicated to a specific type of AI prompt:
 
-- [Dalle](/Dalle): Contains prompts tailored for image generation using DALL-E. 🖼️
+- [Dalle](/DallE): Contains prompts tailored for image generation using DALL-E. 🖼️
 - [Productivity](/Productivity): Features prompts aimed at enhancing productivity through AI. 🚀
 - [Programming](/Programming): Hosts prompts that assist with programming-related tasks. 💻
 - [Research and Analysis](/Research_and_Analysis): Gathers prompts for research and analytical purposes. 🔍
